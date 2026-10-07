@@ -1,4 +1,4 @@
 # eccc_ph
 Economic Consequences of Climate Change: Evidence from the Philippines
 
-Currently migrating replication files into this page.
+... in process of migrating replication files to this page
