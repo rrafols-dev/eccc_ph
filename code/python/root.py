@@ -1,5 +1,5 @@
 import os
-ROOT = os.path.join(os.path.expanduser('~'), 'Dropbox', 'Slums', 'JDE').replace('\\', '/') + '/'
+ROOT = os.path.join(os.path.expanduser('~'), 'Dropbox', 'eccc_ph').replace('\\', '/') + '/'
 
 # Create output folder structure (no-op if it already exists)
 for d in ['outputs_csv/mig_full/2050/',
